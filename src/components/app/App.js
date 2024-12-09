@@ -27,7 +27,8 @@ function App(){
             path: "/*",
              element: <PageNoteFound />
                    
-        }
+        },
+        
     ]
     
     const  privatPages = [
@@ -51,7 +52,8 @@ function App(){
             path: "/*",
             element: <PageNoteFound />
         
-        }
+        },
+        
     ]
 
     const [isAuth, setAuth] = useState(false)
