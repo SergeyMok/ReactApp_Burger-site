@@ -20,7 +20,7 @@ function App(){
    
     const  publicPages = [
         {
-            path: "/",
+            path: "/ReactApp_Burger-site",
             element: <AuthUser  stateAuth={isAuthentication} />
         },
         {
@@ -33,7 +33,7 @@ function App(){
     
     const  privatPages = [
         {
-            path: "/",
+            path: "/ReactApp_Burger-site",
             element: <AuthUser  stateAuth={isAuthentication} />
         },
         {

@@ -16,7 +16,7 @@ function Cards(){
             <Item 
                 key={item.id}
                 id={item.id}
-                img={"./images/cards/" + item.img}
+                img={"/ReactApp_Burger-site/images/cards/" + item.img}
                 name={item.name}
                 description={item.description}
                 price={item.price}

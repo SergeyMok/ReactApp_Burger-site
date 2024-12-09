@@ -43,7 +43,7 @@ function CardItem({id, img, name, description, price, weight, counter, linktotic
         return (
             <div className="product__set-btn">
                 <button className='product__link-basket' onClick={(linkToBasket)}>
-                    <img srcSet="./images/icon/basket-icon.svg" alt="Корзина" />
+                    <img srcSet="/ReactApp_Burger-site/images/icon/basket-icon.svg" alt="Корзина" />
                 </button>
                 <button id={id}   onClick={productRemove} className="product__btn-remove">Удалить из корзины</button>
             </div>

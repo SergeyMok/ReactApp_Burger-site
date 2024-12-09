@@ -25,7 +25,7 @@ function Header(props){
     function GetBtnToBack(){
         return (
             <button className="btn-toback" onClick={goBack}>
-                  <img srcSet=".././images/icon/back-icon.svg" alt="назад" />
+                  <img srcSet="/ReactApp_Burger-site/images/icon/back-icon.svg" alt="назад" />
             </button>
         )
     }
@@ -48,7 +48,7 @@ function Header(props){
                             <span>{getAuthUser.login}</span>
                         </p>
                         <button className="btn-secondary" onClick={goExit}>
-                            <img srcSet=".././images/icon/exit-icon.svg" width="30" alt="" />
+                            <img srcSet="/ReactApp_Burger-site/images/icon/exit-icon.svg" width="30" alt="" />
                         </button>
                     </div>
                     

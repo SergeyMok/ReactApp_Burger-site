@@ -32,7 +32,7 @@ function AboutProduct(){
                 <main>
                     <Item
                         id={aboutElement.id}
-                        img={".././images/cards/" + aboutElement.img}
+                        img={"/ReactApp_Burger-site/images/cards/" + aboutElement.img}
                         name={aboutElement.name}
                         description={aboutElement.description}
                         price={aboutElement.price}

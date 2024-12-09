@@ -28,7 +28,7 @@ function BasketInfo(){
              {countProd ? <BasketInfo/> : "Ваша корзина пуста"} 
 
             <Link to="/basket" className={countProd ? "header__basket-active" : "header__basket"}>
-                <img srcSet=".././images/icon/basket-icon.svg" alt="Корзина" />
+                <img srcSet="/ReactApp_Burger-site/images/icon/basket-icon.svg" alt="Корзина" />
             </Link>
         </div>
     )

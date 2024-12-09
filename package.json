@@ -1,7 +1,7 @@
 {
   "name": "final-attestation",
   "version": "0.1.0",
-  "homepage": "https://sergeymok.github.io/",
+  "homepage": "https://sergeymok.github.io/ReactApp_Burger-site",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
