@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ReactApp_Burger-site/static/css/main.22f0bf39.css",
-    "main.js": "/ReactApp_Burger-site/static/js/main.dbce7ea1.js",
+    "main.js": "/ReactApp_Burger-site/static/js/main.bf4e30cc.js",
     "static/js/787.fcbc02a6.chunk.js": "/ReactApp_Burger-site/static/js/787.fcbc02a6.chunk.js",
     "static/media/background1.png": "/ReactApp_Burger-site/static/media/background1.2afe9d9b83d8b81e55b6.png",
     "static/media/background2.png": "/ReactApp_Burger-site/static/media/background2.58a039bd9bbaa89b5959.png",
     "index.html": "/ReactApp_Burger-site/index.html",
     "static/media/plus-icon.svg": "/ReactApp_Burger-site/static/media/plus-icon.8a2bb1dfe91248296a8e.svg",
     "main.22f0bf39.css.map": "/ReactApp_Burger-site/static/css/main.22f0bf39.css.map",
-    "main.dbce7ea1.js.map": "/ReactApp_Burger-site/static/js/main.dbce7ea1.js.map",
+    "main.bf4e30cc.js.map": "/ReactApp_Burger-site/static/js/main.bf4e30cc.js.map",
     "787.fcbc02a6.chunk.js.map": "/ReactApp_Burger-site/static/js/787.fcbc02a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22f0bf39.css",
-    "static/js/main.dbce7ea1.js"
+    "static/js/main.bf4e30cc.js"
   ]
 }
